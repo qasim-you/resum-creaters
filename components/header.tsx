@@ -11,7 +11,7 @@ export function Header() {
   return (
     <header className="border-b">
       <div className="container mx-auto py-4 px-4 md:px-6 flex items-center justify-between">
-        <h1 className="text-xl font-bold">Resume Builder</h1>
+        <h1 className="text-xl font-bold">Resumate build your Resume with AI assistant</h1>
         <div className="flex items-center gap-4">
           <ChatButton />
           <Button

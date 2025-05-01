@@ -10,7 +10,7 @@ const fontSans = FontSans({
 });
 
 export const metadata = {
-  title: "Resume Builder",
+  title: "ResuMate ",
   description: "Build your professional resume with AI assistance",
  
 };
