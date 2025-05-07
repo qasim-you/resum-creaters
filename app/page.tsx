@@ -1,4 +1,4 @@
-import { ResumeBuilder } from "@/components/resume-builder"
+ import { ResumeBuilder } from "@/components/resume-builder"
 
 export default function Home() {
   return (
